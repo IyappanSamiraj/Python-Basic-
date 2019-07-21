@@ -1,5 +1,8 @@
 num=str(input())
-if num.isdigit():
+if (num.isdigit()) or ("."):
     print ('yes')
 else:
     print('no')
+
+ 
+    
