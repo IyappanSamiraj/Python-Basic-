@@ -1,2 +1,4 @@
 a,b=map(int,input().split())
-print(b,a)
+m=int(a)
+n=int(b)
+print(n,m)
