@@ -1,5 +1,5 @@
-num1,num2=map(int,input().split())
-for i in range(num1+1,num2):
+n,k=map(int,input().split())
+for i in range(n+1,k):
     iyps=0
     temp=i
     while(temp>0):
