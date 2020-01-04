@@ -6,6 +6,6 @@ while (temp>0):
     iyps = iyps + guvi ** 3
     temp //= 10
 if num==iyps:
-    print('yes')
+    print('Amstrong number')
 else:
-    print('no')
+    print('not Amstrong number')
