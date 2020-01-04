@@ -5,7 +5,5 @@ while(num>0):
     iyps=num%10
     f=f*10+iyps
     num=num//10
-if(sum==f):
-    print('yes')
-else:
-    print('no')
+if(sum==f):print('yes')
+else:print('no')
